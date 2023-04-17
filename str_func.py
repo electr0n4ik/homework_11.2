@@ -1,7 +1,4 @@
 def get_large_letter(letters):
-    """
-    Функция делает первую букву каждого слова заглавной.
-    """
     return letters.upper()
 
 
