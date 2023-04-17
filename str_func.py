@@ -1,4 +1,7 @@
 def get_large_letter(letters):
+    """
+    Функция делает буквы большими.
+    """
     return letters.upper()
 
 
